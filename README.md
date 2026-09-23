@@ -3,6 +3,7 @@
 > Skript argëtues surprizë për Shën Valentin — shkruar në VBScript, ekzekutohet në Windows.
 
 **💻 Ky kod ekzekutohet në Windows** (double-click mbi `Valentine_Code_2022.vbs`) — nuk hapet në browser. Faqja demo më poshtë është vetëm prezantim i kodit.
+![Pamje nga demo](screenshot.png)
 
 ![VBScript](https://img.shields.io/badge/VBScript-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
