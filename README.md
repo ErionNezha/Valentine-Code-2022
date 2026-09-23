@@ -1,5 +1,7 @@
 # 💘 Valentine Code 2022
 
+Created by **Erion Nezha**
+
 > Skript argëtues surprizë për Shën Valentin — shkruar në VBScript, ekzekutohet në Windows.
 
 **💻 Ky kod ekzekutohet në Windows** (double-click mbi `Valentine_Code_2022.vbs`) — nuk hapet në browser. Faqja demo më poshtë është vetëm prezantim i kodit.
